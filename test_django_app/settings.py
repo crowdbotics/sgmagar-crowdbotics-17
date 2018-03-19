@@ -137,8 +137,5 @@ LOCAL_APPS = [
     'home',
 ]
 THIRD_PARTY_APPS = [
-    '199Fix',
-    '199Fix',
-    '199Fix',
 ]
 INSTALLED_APPS += LOCAL_APPS + THIRD_PARTY_APPS

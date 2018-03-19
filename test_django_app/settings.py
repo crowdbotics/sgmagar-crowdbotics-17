@@ -137,6 +137,5 @@ LOCAL_APPS = [
     'home',
 ]
 THIRD_PARTY_APPS = [
-    'aa_airtable',
 ]
 INSTALLED_APPS += LOCAL_APPS + THIRD_PARTY_APPS

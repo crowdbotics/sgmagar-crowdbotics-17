@@ -49,7 +49,7 @@ MIDDLEWARE = [
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 ]
 
-ROOT_URLCONF = 'sgmagar_crowdbotics_17.urls'
+ROOT_URLCONF = 'test_django_app.urls'
 
 TEMPLATES = [
     {
@@ -67,7 +67,7 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = 'sgmagar_crowdbotics_17.wsgi.application'
+WSGI_APPLICATION = 'test_django_app.wsgi.application'
 
 
 # Database

@@ -1,1 +1,1 @@
-web: waitress-serve --port=$PORT sgmagar_crowdbotics_17.wsgi:application
+web: waitress-serve --port=$PORT test_django_app.wsgi:application

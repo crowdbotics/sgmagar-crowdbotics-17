@@ -137,6 +137,7 @@ LOCAL_APPS = [
     'home',
 ]
 THIRD_PARTY_APPS = [
+    '199Fix',
     'aa_airtable',
     'vault',
 ]

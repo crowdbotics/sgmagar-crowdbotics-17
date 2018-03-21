@@ -6,12 +6,9 @@ from django.shortcuts import render
 
 def home(request):
     packages = [
-	{'name':'django-twitter', 'url': 'http://pypi.python.org/pypi/django-twitter/0.1.0'},
-	{'name':'cmsplugin-twitter', 'url': 'http://pypi.python.org/pypi/cmsplugin-twitter/1.1.2'},
-	{'name':'django-paypal', 'url': 'http://pypi.python.org/pypi/django-paypal/0.4.1'},
     ]
     context = {
-        'title': 'sgmagar-crowdbotics-17',
+        'title': 'test-django-app',
         'packages': packages
     }
     return render(request, 'home/index.html', context)

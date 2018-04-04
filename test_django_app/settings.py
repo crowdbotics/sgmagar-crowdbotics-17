@@ -137,6 +137,5 @@ LOCAL_APPS = [
     'home',
 ]
 THIRD_PARTY_APPS = [
-    'bitmazk_contact_form',
 ]
 INSTALLED_APPS += LOCAL_APPS + THIRD_PARTY_APPS

@@ -136,5 +136,6 @@ LOCAL_APPS = [
     'home',
 ]
 THIRD_PARTY_APPS = [
+    'blanc_admin_theme',
 ]
 INSTALLED_APPS += LOCAL_APPS + THIRD_PARTY_APPS

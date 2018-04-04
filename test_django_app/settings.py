@@ -136,5 +136,6 @@ LOCAL_APPS = [
     'home',
 ]
 THIRD_PARTY_APPS = [
+    'blanc_basic_forms',
 ]
 INSTALLED_APPS += LOCAL_APPS + THIRD_PARTY_APPS

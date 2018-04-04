@@ -136,5 +136,6 @@ LOCAL_APPS = [
     'home',
 ]
 THIRD_PARTY_APPS = [
+    'basic_events',
 ]
 INSTALLED_APPS += LOCAL_APPS + THIRD_PARTY_APPS

@@ -137,5 +137,6 @@ LOCAL_APPS = [
     'home',
 ]
 THIRD_PARTY_APPS = [
+    'contact_form',
 ]
 INSTALLED_APPS += LOCAL_APPS + THIRD_PARTY_APPS

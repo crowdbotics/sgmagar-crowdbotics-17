@@ -137,6 +137,5 @@ LOCAL_APPS = [
     'home',
 ]
 THIRD_PARTY_APPS = [
-    'benchmark_django_rest_framework',
 ]
 INSTALLED_APPS += LOCAL_APPS + THIRD_PARTY_APPS

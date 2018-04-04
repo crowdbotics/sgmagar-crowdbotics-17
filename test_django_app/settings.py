@@ -136,6 +136,5 @@ LOCAL_APPS = [
     'home',
 ]
 THIRD_PARTY_APPS = [
-    'news',
 ]
 INSTALLED_APPS += LOCAL_APPS + THIRD_PARTY_APPS
